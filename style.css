@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+   
+}
+.container form{
+   background-color:rgb(199, 199, 231);
+   /* border: solid 1px black; */
+   border-radius: 10px;
+   box-shadow: 10px white;
+   
+}
+
+h1{
+    font-size: 4rem;
+    text-align: center;
+    font-style: italic;
+}
+body{
+    background-color:rgb(199, 199, 231) ;
+}
+.btn btn-primary btn1{
+    color: aqua;
+}
